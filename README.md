@@ -1,6 +1,3 @@
-# rickycy.github.io
-test
-
 
 <!DOCTYPE html>
 <html>
