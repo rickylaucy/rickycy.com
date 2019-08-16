@@ -1,4 +1,4 @@
-
+<html>
 	<head>
 		<title>rickycy</title>
 		<meta charset="utf-8" />
@@ -238,5 +238,6 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+	</body>
+</html>
 
