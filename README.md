@@ -1,10 +1,4 @@
-<!DOCTYPE HTML>
-<!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+
 	<head>
 		<title>rickycy</title>
 		<meta charset="utf-8" />
@@ -36,7 +30,7 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>TEST<br />
+											<h1>Dan is GAY<br />
 											by Ricky Lau</h1>
 											<p>A personal and self-use testing website</p>
 										</header>
@@ -245,5 +239,4 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
-	</body>
-</html>
+
