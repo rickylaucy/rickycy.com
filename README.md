@@ -30,7 +30,7 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>Dan is GAY<br />
+											<h1>TEST1<br />
 											by Ricky Lau</h1>
 											<p>A personal and self-use testing website</p>
 										</header>
